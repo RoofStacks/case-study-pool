@@ -1,1 +1,1 @@
-# case-study-pool
+This is the case study pool of RoofStacks.
