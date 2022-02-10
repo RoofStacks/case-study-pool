@@ -11,8 +11,6 @@
 Imagine you have 1 main Unity Project. Your app supports showing 3D prefabs, assets that were created in
 other Unity projects. Your app is like Youtube but for 3d assets.
 
-***
-
 ## Details 
 - Create an app that supports the ability to download and show assets that other users created.
 - You should create the main app that supports showing content that is not built-in in your main project. You

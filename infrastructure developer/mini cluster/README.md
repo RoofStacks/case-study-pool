@@ -10,8 +10,6 @@
 ## Summary
 Imagine that you have a kubernetes cluster. This cluster orchestrates many services behind the load balancer.
 
-***
-
 ## Details
 - Clone the GitHub repo on your local which is specified as [sample-app](sample-app/).
 - Create a docker file for building a .net core web app within the docker image.
@@ -26,8 +24,6 @@ Imagine that you have a kubernetes cluster. This cluster orchestrates many servi
      - > http://{{IP}}:{{Port}}/WeatherForecast
 
 - You could prepare one-click install script file as bash or shell to install and run the mini-cluster.
-
-***
 
 ## Solution
 Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework. Please push your solution to GitHub and share the related URL with us.
