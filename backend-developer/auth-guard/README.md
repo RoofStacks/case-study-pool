@@ -8,7 +8,7 @@
 - [Solution](#solution)
 
 ## Summary
-Imagine that you have a wallet service. We want to use this service to integrate with our payment system.
+Imagine that you have an employee service. This service persists some employee data like name, gender, age, etc. We want to defend this service with another authentication guard service. All requests must be transmitted on auth guard before arriving at the employee service.
 
 ## Details
 - Employee service and auth guard have to be separated.  You can define different APIs on employee service like create employee, toggle employee activity.
