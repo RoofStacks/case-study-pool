@@ -57,4 +57,4 @@ device.
 Another user would be your phone. When someone sends “Hey did you see https://assetdownload.com/cat” to another user (Editor-Phone) you catch a URL receiving user you can ask for a popup “User send you a URL. Do you want to Download?” with a download button. When the user clicked the button, the same logic executes above.
 
 ## Solution
-Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework. Please push your solution to GitHub and share the related URL with us.
+Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
