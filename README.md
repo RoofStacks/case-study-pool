@@ -18,7 +18,8 @@ RoofStacks Inc. has a funny and fast technical recruitment process. And we would
     - [User API Automation](test-automation-developer/user-api-automation/)
 - [Unity Developer](unity-developer/)
     - [Content Visualizer](unity-developer/content-visualizer/)
-
+- [Mobile Developer](mobile-developer/)
+    - [Rocket App](mobile-developer/rocket-app/)
 
 ## Case Study Markdown Template Style Guide
 
@@ -41,8 +42,9 @@ RoofStacks Inc. has a funny and fast technical recruitment process. And we would
 - {{a detail or mockup of your requirements on the case study}}.
 
 ## Solution
-Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework. Please push your solution to GitHub and share the related URL with us.
+Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
 ```
 
 ## Authors
 - [Ugur sirmen](https://github.com/ugursirmen)
+- [Mehmet Dağdelen](https://github.com/mdagdelen)

@@ -19,4 +19,4 @@ You have an API Doc for User Service. You could build your test automation to ha
 - There are 6 APIs that create user, get user list, get user by Id, remove user, switch user activity and update user info.
 
 ## Solution
-Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework. Please push your solution to GitHub and share the related URL with us.
+Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.

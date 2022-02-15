@@ -28,4 +28,4 @@ Imagine that you have an NFT minter app which is basically for use to mint an NF
 - Imagine that the liquidity wallet/pool is our staking reward resource. If we want to calculate a daily annual percentage rate (a.k.a. APR) here and show it to users in a way that will not make loss our money, what kind of algorithm is set up? Please explain it in your own words or charts.
 
 ## Solution
-Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework. Please push your solution to GitHub and share the related URL with us.
+Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
