@@ -10,6 +10,8 @@ RoofStacks Inc. has a funny and fast technical recruitment process. And we would
     - [Mini Wallet Service](backend-developer/mini-wallet-service/)
 - [Blockchain Developer](blockchain-developer/)
     - [NFT Minter DApp](blockchain-developer/nft-minter-dapp/)
+- [Data Analytics Developer](data-analytics-developer/)
+    - [Report Visualizer](data-analytics-developer/report-visualizer/)
 - [Frontend Developer](frontend-developer/)
     - [Star Food](frontend-developer/star-food/)
 - [Infrastructure Developer](infrastructure-developer/)
