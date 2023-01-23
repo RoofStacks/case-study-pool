@@ -13,7 +13,7 @@ Imagine that you have a wallet service. We want to use this service to integrate
 ## Details
 - Users can add new wallets to this service. The wallet supports different currencies.
 - Users can deposit/withdraw the requested amount to the wallet that you have created.
-- All transactions should be rolled back if you encounter a problem during the deposit/withdraw operation. ( Transaction )
+- All transactions should be rolled back if you encounter a problem during the deposit/withdraw operation.
 - Users can query the current balance.
 - All transactions could be able to report.
 
