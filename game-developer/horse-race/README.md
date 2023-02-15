@@ -14,7 +14,7 @@ Imagine that you have a cross-platform (iOS/Android) game that contains racing h
 - Create a mobile app game. It contains 3 main parts. Join, leaderboard and settings.
 - Users can join the game as multiplayer. And then the user could select a pre-defined horse with different properties.
 - There should be only two users simultaneously in the showing game scene in the multiplayer room.
-- When the game begins, horses start running and the winner should be selected randomly via game mechanics (like horse properties). It depends on your game design skills, you are free.
+- When the game begins, horses start running and the winner should be selected via game mechanics (like horse properties). It depends on your game design skills, you are free.
 - When the user wins the game, the user could take 1 point as the winner.
 - Create a leaderboard to show the top 10 winner users on the main menu.
 - Create settings part to on/off game voice.
