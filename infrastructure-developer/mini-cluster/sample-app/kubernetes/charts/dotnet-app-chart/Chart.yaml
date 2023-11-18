@@ -1,0 +1,4 @@
+apiVersion: v2
+name: dotnet-app-chart
+description: A Helm chart for deploying the Sample App
+version: 1.0.0

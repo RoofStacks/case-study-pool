@@ -1,0 +1,15 @@
+replicaCount: 2
+
+image:
+  repository: fsubasi/dotnet-app
+  tag: 181123v1
+  pullPolicy: IfNotPresent
+
+service:
+  name: dotnet-app-service
+  port: 80
+  targetPort: 80
+
+ingress:
+  host: "localhost"
+  path: "/WeatherForecast"
