@@ -4,18 +4,24 @@ using campaign_service.Services.Auth;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.Extensions.DependencyInjection;
+using campaign_service.Services.Campaigns;
 
 namespace campaign_service.Extensions
 {
     public static class AppConfigurationExtensions
     {
-
-        public static WebApplicationBuilder ConfigureAll(this WebApplicationBuilder builder)
+        public static WebApplicationBuilder ConfigureDatabase(this WebApplicationBuilder builder)
         {
-            var connectionString = "";
-            var jwtSecret = "";
+            var config = builder.Configuration;
+            var connectionString = config["ConnectionStrings:DefaultConnection"];
+            var jwtSecret = config["Jwt:Secret"];
             builder.Services.AddDbContext<ApplicationDbContext>(options =>
-                options.UseNpgsql(connectionString));
+                options.UseNpgsql(connectionString), optionsLifetime: ServiceLifetime.Singleton);
+
+            builder.Services.AddDbContextFactory<ApplicationDbContext>();
+            builder.Services.AddSingleton<IAuthService, AuthService>();
+            builder.Services.AddTransient<ICampaignService, CampaignService>();
 
             builder.Services.AddControllers();
 
@@ -43,7 +49,6 @@ namespace campaign_service.Extensions
                 options.AddPolicy("User", policy => policy.RequireRole("User"));
             });
 
-            builder.Services.AddSingleton<IAuthService, AuthService>();
             return builder;
         }
     }

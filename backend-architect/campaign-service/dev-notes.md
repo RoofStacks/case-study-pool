@@ -32,6 +32,7 @@ dotnet run campaign-service.csproj
 5. Debug or Run project
 
    vscode is used to develop project and there is a launch.json file under .vscode folder to debug project.
+
 6. Install required nuget package for entity framework and jwt token
 
 ```bash

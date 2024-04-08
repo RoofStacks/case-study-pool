@@ -11,7 +11,19 @@ namespace campaign_service.Repositories
         {
         }
 
-        public DbSet<User> Users { get; set; }
-        public DbSet<Role> Roles { get; set; }
+        public DbSet<User> User { get; set; }
+        public DbSet<Role> Role { get; set; }
+        public DbSet<Campaign> Campaign { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            modelBuilder.Entity<User>()
+                        .HasOne(u => u.Role)
+                        .WithMany(r => r.Users)
+                        .HasForeignKey(u => u.RoleId);
+
+            modelBuilder.Entity<Campaign>()
+                        .HasOne(c => c.User);
+        }
     }
 }

@@ -10,7 +10,7 @@
             "request": "launch",
             "preLaunchTask": "build",
             // If you have changed target frameworks, make sure to update the program path.
-            "program": "${workspaceFolder}/campaign-service/bin/Debug/net6.0/campaign-service.dll",
+            "program": "${workspaceFolder}/campaign-service/bin/Debug/net8.0/campaign-service.dll",
             ///home/emrahmersinli/code/src/github.com/RoofStacks/case-study-pool/backend-architect/campaign-service/campaign-service/bin/Debug/net6.0
             "args": [],
             "cwd": "${workspaceFolder}/campaign-service",
