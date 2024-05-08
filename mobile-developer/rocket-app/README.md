@@ -22,7 +22,7 @@ Imagine that you have mobile rocket app. It contains rocket listing and detail p
     - Each item must have a thumbnail of the rocket, rocket name and rocket descritpton (if rocket has image or has description).
     - Clicking an item will launch the rocket detail screen.
   - Rocket Detail
-    - This screen will show all the details about a particular movie item.
+    - This screen will show all the details about a particular rocket item.
     - There should be a rocket image, title description, summary etc.
     - There must be favorite button.
     - Show the clickable favorite button with its previous state (user selected the rocket as favorite or not).
@@ -45,4 +45,4 @@ Imagine that you have mobile rocket app. It contains rocket listing and detail p
   
 
 ## Solution
-Design a system that contains all rules in the details and please make a readme file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
+Design a system that contains all rules in the details and please make a README file to explain your solution. You could also draw diagrams and flow charts. You could use any software language, platform, tool, library, or framework except those specified as required in the details section. Please push your solution to GitHub and share the related URL with us.
