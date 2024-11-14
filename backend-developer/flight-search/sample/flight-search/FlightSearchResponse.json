@@ -1,0 +1,24 @@
+[
+  {
+    "flightNumber": "HH123",
+    "departure": "IST",
+    "arrival": "LHR",
+    "price": 350.50,
+    "currency": "USD",
+    "departureTime": "2024-11-14T10:00:00",
+    "arrivalTime": "2024-11-14T14:20:00",
+    "duration": "4h 20m",
+    "providerName": "HopeAir"
+  },
+  {
+    "flightNumber": "AY456",
+    "departure": "IST",
+    "arrival": "LHR",
+    "price": 380.75,
+    "currency": "USD",
+    "departureTime": "2024-11-14T11:00:00",
+    "arrivalTime": "2024-11-14T15:25:00",
+    "duration": "4h 25m",
+    "providerName": "AybJet"
+  }
+]

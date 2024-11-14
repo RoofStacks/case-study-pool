@@ -1,0 +1,202 @@
+[
+    {
+      "flightNumber": "AY123",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 350.50,
+      "currency": "USD",
+      "duration": "4h 20m",
+      "departureTime": "2024-11-14T10:00:00",
+      "arrivalTime": "2024-11-14T14:20:00"
+    },
+    {
+      "flightNumber": "AY456",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 380.75,
+      "currency": "USD",
+      "duration": "4h 25m",
+      "departureTime": "2024-11-14T11:00:00",
+      "arrivalTime": "2024-11-14T15:25:00"
+    },
+    {
+      "flightNumber": "AY789",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 360.40,
+      "currency": "USD",
+      "duration": "4h 22m",
+      "departureTime": "2024-11-14T12:00:00",
+      "arrivalTime": "2024-11-14T16:22:00"
+    },
+    {
+      "flightNumber": "AY321",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 345.20,
+      "currency": "USD",
+      "duration": "4h 18m",
+      "departureTime": "2024-11-14T13:00:00",
+      "arrivalTime": "2024-11-14T17:18:00"
+    },
+    {
+      "flightNumber": "AY654",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 370.00,
+      "currency": "USD",
+      "duration": "4h 24m",
+      "departureTime": "2024-11-14T14:00:00",
+      "arrivalTime": "2024-11-14T18:24:00"
+    },
+    {
+      "flightNumber": "AY112",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 365.00,
+      "currency": "USD",
+      "duration": "4h 19m",
+      "departureTime": "2024-11-14T15:00:00",
+      "arrivalTime": "2024-11-14T19:19:00"
+    },
+    {
+      "flightNumber": "AY223",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 355.75,
+      "currency": "USD",
+      "duration": "4h 21m",
+      "departureTime": "2024-11-14T16:00:00",
+      "arrivalTime": "2024-11-14T20:21:00"
+    },
+    {
+      "flightNumber": "AY334",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 375.20,
+      "currency": "USD",
+      "duration": "4h 26m",
+      "departureTime": "2024-11-14T17:00:00",
+      "arrivalTime": "2024-11-14T21:26:00"
+    },
+    {
+      "flightNumber": "AY445",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 362.50,
+      "currency": "USD",
+      "duration": "4h 22m",
+      "departureTime": "2024-11-14T18:00:00",
+      "arrivalTime": "2024-11-14T22:22:00"
+    },
+    {
+      "flightNumber": "AY556",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 359.00,
+      "currency": "USD",
+      "duration": "4h 20m",
+      "departureTime": "2024-11-14T19:00:00",
+      "arrivalTime": "2024-11-14T23:20:00"
+    },
+    {
+      "flightNumber": "AY667",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 365.30,
+      "currency": "USD",
+      "duration": "4h 25m",
+      "departureTime": "2024-11-14T20:00:00",
+      "arrivalTime": "2024-11-15T00:25:00"
+    },
+    {
+      "flightNumber": "AY778",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 348.70,
+      "currency": "USD",
+      "duration": "4h 18m",
+      "departureTime": "2024-11-14T21:00:00",
+      "arrivalTime": "2024-11-15T01:18:00"
+    },
+    {
+      "flightNumber": "AY889",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 375.10,
+      "currency": "USD",
+      "duration": "4h 23m",
+      "departureTime": "2024-11-14T22:00:00",
+      "arrivalTime": "2024-11-15T02:23:00"
+    },
+    {
+      "flightNumber": "AY990",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 352.60,
+      "currency": "USD",
+      "duration": "4h 20m",
+      "departureTime": "2024-11-14T23:00:00",
+      "arrivalTime": "2024-11-15T03:20:00"
+    },
+    {
+      "flightNumber": "AY101",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 368.50,
+      "currency": "USD",
+      "duration": "4h 24m",
+      "departureTime": "2024-11-15T00:00:00",
+      "arrivalTime": "2024-11-15T04:24:00"
+    },
+    {
+      "flightNumber": "AY212",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 350.30,
+      "currency": "USD",
+      "duration": "4h 18m",
+      "departureTime": "2024-11-15T01:00:00",
+      "arrivalTime": "2024-11-15T05:18:00"
+    },
+    {
+      "flightNumber": "AY323",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 379.20,
+      "currency": "USD",
+      "duration": "4h 25m",
+      "departureTime": "2024-11-15T02:00:00",
+      "arrivalTime": "2024-11-15T06:25:00"
+    },
+    {
+      "flightNumber": "AY434",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 363.40,
+      "currency": "USD",
+      "duration": "4h 22m",
+      "departureTime": "2024-11-15T03:00:00",
+      "arrivalTime": "2024-11-15T07:22:00"
+    },
+    {
+      "flightNumber": "AY545",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 370.90,
+      "currency": "USD",
+      "duration": "4h 26m",
+      "departureTime": "2024-11-15T04:00:00",
+      "arrivalTime": "2024-11-15T08:26:00"
+    },
+    {
+      "flightNumber": "AY656",
+      "departure": "IST",
+      "arrival": "LHR",
+      "price": 355.75,
+      "currency": "USD",
+      "duration": "4h 19m",
+      "departureTime": "2024-11-15T05:00:00",
+      "arrivalTime": "2024-11-15T09:19:00"
+    }
+]  
