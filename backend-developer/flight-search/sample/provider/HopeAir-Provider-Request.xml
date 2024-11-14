@@ -1,0 +1,11 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/" xmlns:sky="http://skyblue.com/flight">
+   <soapenv:Header/>
+   <soapenv:Body>
+      <sky:GetFlightInfoRequest>
+         <sky:departure>IST</sky:departure>
+         <sky:arrival>LHR</sky:arrival>
+         <sky:date>2024-11-14</sky:date>
+         <sky:passengerCount>1</sky:passengerCount>
+      </sky:GetFlightInfoRequest>
+   </soapenv:Body>
+</soapenv:Envelope>

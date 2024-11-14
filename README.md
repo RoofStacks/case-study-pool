@@ -8,6 +8,7 @@ RoofStacks Inc. has a funny and fast technical recruitment process. And we would
 - [Backend Developer](backend-developer/)
     - [Auth Guard](backend-developer/auth-guard/)
     - [Mini Wallet Service](backend-developer/mini-wallet-service/)
+    - [Flight Search](backend-developer/flight-search/)
 - [Blockchain Developer](blockchain-developer/)
     - [NFT Minter DApp](blockchain-developer/nft-minter-dapp/)
 - [Data Analytics Developer](data-analytics-developer/)
